@@ -21,5 +21,11 @@
   >
     Popover
   </a>
+  <a
+    class="border-b border-b-muted-foreground"
+    href="/slow"
+  >
+    Slow Navigation
+  </a>
 </div>
 <slot />
