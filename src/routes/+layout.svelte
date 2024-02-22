@@ -21,5 +21,11 @@
   >
     Slow Navigation
   </a>
+  <a
+    class="border-b border-b-muted-foreground"
+    href="/melt-ui-popover"
+  >
+    Melt-UI Popover
+  </a>
 </div>
 <slot />

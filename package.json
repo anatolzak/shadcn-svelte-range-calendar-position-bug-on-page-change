@@ -25,6 +25,8 @@
   },
   "type": "module",
   "dependencies": {
+    "@melt-ui/pp": "^0.3.0",
+    "@melt-ui/svelte": "^0.74.1",
     "bits-ui": "^0.17.0",
     "clsx": "^2.1.0",
     "tailwind-merge": "^2.2.1",
