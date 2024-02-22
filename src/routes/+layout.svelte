@@ -11,7 +11,7 @@
   </a>
   <a
     class="border-b border-b-muted-foreground"
-    href="/popover"
+    href="/"
   >
     Popover
   </a>
